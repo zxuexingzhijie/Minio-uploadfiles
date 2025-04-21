@@ -133,3 +133,6 @@ npm start
 ## 许可证
 
 MIT 
+=======
+# Minio-uploadfiles
+MInio实现大文件和图片分片上传功能
